@@ -195,6 +195,7 @@
 /*****flight*****/
     /* #flight(flightft09nw97giq) #css starts */
     .flightft09nw97giq .fdb-block {
+        padding: 0.5rem 0;
         padding-top: 5rem
       }
       .flightft09nw97giq .lead {
