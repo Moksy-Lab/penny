@@ -124,6 +124,9 @@
        .testimonialtmrwms6esfu .fdb-block .fdb-box {
         padding: 1.75rem 2.5rem   
     }
+    .testimonialtmrwms6esfu .fdb-block .fdb-touch {
+        border-top: solid 0.3125rem #31DC89
+    }
     /* #tioni(testimonialtmrwms6esfu) #css ends  */
 /*****tioni*****/
 
@@ -180,3 +183,31 @@
 }
     /* #christina(christinaco40p743dw4) #css ends  */
 /*****christina*****/
+
+/*****caisy*****/ 
+    /* #caisy(clientscalnt4q93pe) #css starts  */
+    .clientscalnt4q93pe h3{
+        font-size: 32px
+    }
+    /* #caisy(clientscalnt4q93pe) #css ends  */
+/*****caisy*****/ 
+
+/*****flight*****/
+    /* #flight(flightft09nw97giq) #css starts */
+    .flightft09nw97giq .fdb-block {
+        padding-top: 5rem
+      }
+      .flightft09nw97giq .lead {
+        font-size: 20px
+    }
+    .flightft09nw97giq p {
+        margin-bottom: 0rem
+    }
+    .flightft09nw97giq a {
+        color: #292929
+    }
+    .flightft09nw97giq a:hover {
+        color: #31DC89
+    }
+    /* #flight(flightft09nw97giq) #css ends */
+/*****flight*****/
